@@ -1,6 +1,11 @@
-# Node.js sncf-mail-parser
+# sncf-mail-parser
 ---
+This project is used to parse data from HTML file.
+The output data will be generated on the output Folder 
 
+1- Put the email files in html format on the input folder.
+2- run `node index.js`
+3- Check the output folder
 
 ## Tech Stack
 
@@ -15,7 +20,7 @@
 ├── /lib/                       
 │   ├── /data.js                
 │   ├── /file.js                
-└── index.js                    # Fichier index de l'app
+└── index.js                    # App index file
 ```
 
 ## Getting Started
